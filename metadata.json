@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard Dinámico Interactivo",
+  "description": "Un dashboard dinámico y visualmente atractivo creado con React, TypeScript y Tailwind CSS. Muestra datos a través de gráficos de barras y de pastel, con funcionalidades interactivas para explorar la información.",
+  "requestFramePermissions": []
+}
